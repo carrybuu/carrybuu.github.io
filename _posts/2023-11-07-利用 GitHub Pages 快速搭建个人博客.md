@@ -10,12 +10,12 @@ tags:
     - gitHub pages
 ---
 
-## 利用 GitHub Pages 快速搭建个人博客
+## 正文
 
 [利用 GitHub Pages 快速搭建个人博客](https://cloud.tencent.com/developer/article/1121123?areaSource=106005.10)
 
 
 
-### 参考
+## 参考
 - [利用 GitHub Pages 快速搭建个人博客 By BY
 ](https://cloud.tencent.com/developer/article/1121123?areaSource=106005.10)
