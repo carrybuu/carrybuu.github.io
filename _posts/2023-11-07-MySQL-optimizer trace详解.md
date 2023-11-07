@@ -4,7 +4,7 @@ title:      【转载】MySQL—optimizer trace 详解
 subtitle:   MySQL—optimizer trace 详细注释
 date:       2023-11-07
 author:     Buu
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-mysql.png
 catalog: true
 tags:
     - mysql
