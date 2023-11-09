@@ -40,6 +40,10 @@ tags:
 
 > SET optimizer_trace="enabled=on";
 
+如果只想在`本次会话中`打开这个功能，请参考下面：
+
+> SET SESSION optimizer_trace="enabled=on";
+
 然后我们就可以输入我们想要查看优化过程的查询语句，当该查询语句执行完成后，就可以到information_schema数据库下的OPTIMIZER_TRACE表中查看完整的优化过程。这个OPTIMIZER_TRACE表有4个列，分别是：
 
 - QUERY：表示我们的查询语句。
@@ -56,7 +60,7 @@ tags:
 
 ```sql
 # 1. 打开optimizer trace功能 (默认情况下它是关闭的):
-SET optimizer_trace="enabled=on";
+SET SESSION optimizer_trace="enabled=on";
 
 # 2. 这里输入你自己的查询语句
 SELECT ...; 
