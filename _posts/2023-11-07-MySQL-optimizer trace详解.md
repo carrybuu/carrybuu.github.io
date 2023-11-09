@@ -403,4 +403,4 @@ INSUFFICIENT_PRIVILEGES: 0
 ## 参考
 - [MySQL—optimizer trace](https://www.rsthe.com/archives/mysqloptimizertrace)
 
--[mysql-trace工具用法详解](https://blog.csdn.net/qq_33743572/article/details/107716892)
+- [mysql-trace工具用法详解](https://blog.csdn.net/qq_33743572/article/details/107716892)
