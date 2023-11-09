@@ -401,5 +401,6 @@ INSUFFICIENT_PRIVILEGES: 0
 
 
 ## 参考
-- [MySQL—optimizer trace By 小龙
-](https://www.rsthe.com/archives/mysqloptimizertrace)
+- [MySQL—optimizer trace](https://www.rsthe.com/archives/mysqloptimizertrace)
+
+-[mysql-trace工具用法详解](https://blog.csdn.net/qq_33743572/article/details/107716892)
