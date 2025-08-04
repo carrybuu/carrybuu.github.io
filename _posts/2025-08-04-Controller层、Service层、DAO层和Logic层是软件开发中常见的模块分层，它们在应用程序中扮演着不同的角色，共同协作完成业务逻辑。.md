@@ -7,13 +7,12 @@ author:     Buu
 header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
-    - 其他
-    - else
+    - 软件分层
 ---
 
 ## 前言
 
-网上的修改vs code要么失效、要么收费的才能看，所以这里重新整理记录下。
+用AI总结了下软件分层
 
 
 ## 正文
